@@ -1,5 +1,5 @@
 # LearningApp-Backend
-This is the backend of our learning app platform 'LearnCS'. 
+This is the backend of our learning app platform 'LearnCS'. We created this project as a part of our course 'CSE412: Software Engineering'.
 
 ## Project Scenario / Description
 
@@ -93,6 +93,9 @@ For Course Enrollment:
 
 ![Deployment Diagram](https://github.com/kasif-zisan/LearningApp-Backend/assets/75033362/ac5f4744-1a39-4882-aa46-c0e9b46381e2)
 
+## Concluding Remarks
+
+As we reach the culmination of the LearnCS project, we take pride in the accomplishments and progress we've made towards creating an enriching online learning platform for computer science enthusiasts. Throughout the development journey, our primary focus has been on delivering an exceptional product and user experience, and we're excited to share our product with you.
 
 
 
