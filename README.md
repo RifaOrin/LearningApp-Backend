@@ -22,4 +22,31 @@ While LearnCS strives for excellence, we acknowledge certain limitations that ar
 
 Join us in the exciting journey of knowledge acquisition and growth. Experience LearnCS, Your Pathway to Learning CS.
 
+## Project Requirements
+------------------------
+
+- **Course Offerings:** Different computer science courses including Data Structures, Algorithms, UI/UX design, Web Programming, Mobile Programming and many more.
+- **Multimedia Course Content:** Video lectures, PDFs, and interactive quizzes for each course.
+- **User Registration:** Students must create an account and enroll in courses to access materials.
+- **User Sessions:** Maintain user sessions for personalized experiences.
+- **Progress Tracking:** Users can track their progress within each enrolled course.
+- **Admin Panel:** Custom admin dashboard for course, module, quiz, instructor and user management.
+- **Deployment:** Deploy the website to a server for public access.
+- **Chat Room:** A chatroom for learners and admins to interact and discuss.
+
+## Techonologies for Backend
+-----------------------------
+
+- **Framework:** Django
+- **API:** Django REST Framework
+- **Database:** SQLite3
+- **Deployment:** PythonAnyWhere
+
+## Software Diagram
+--------------------
+
+<p align="center">
+  <b>UseCase Diagram</b>
+</p>
+
 
